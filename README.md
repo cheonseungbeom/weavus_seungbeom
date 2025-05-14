@@ -91,7 +91,7 @@ Spring Boot를 기반으로 한 쇼핑몰 웹 애플리케이션으로, 사용�
   mvn spring-boot:run
 5. **접속**
    http://localhost:81
-6. 
+6. **데이터베이스 세팅**
 <details>
 <summary><kbd>데이터 베이스 DLL</kbd></summary>
   -- shop.cart_item_seq definition
@@ -279,7 +279,9 @@ CREATE TABLE `order_item` (
   CONSTRAINT `FKt4dc2r9nbvbujrljv3e23iibt` FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 </details>
+
 ## 📦 프로젝트 구조
+
 ```
 src/
 ├── main/
