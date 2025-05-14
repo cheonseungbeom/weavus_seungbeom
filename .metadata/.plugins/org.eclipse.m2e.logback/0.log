@@ -1,0 +1,378 @@
+2025-04-17 03:26:03,113 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-04-17 03:28:06,127 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 04:30:44,493 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 04:39:05,011 [Worker-31: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-17 04:39:05,496 [Worker-31: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kr.inhatc.spring:Kitae_Shop:0.0.1-SNAPSHOT @ C:\eclipse-workspace\Shop\pom.xml.
+2025-04-17 04:39:05,537 [Worker-31: Update Maven projects configuration] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-17 04:39:06,282 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/main/java
+2025-04-17 04:39:06,286 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/target/generated-sources/java
+2025-04-17 04:39:06,287 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 04:39:06,292 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 04:39:06,295 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/test/java
+2025-04-17 04:39:06,296 [Worker-31: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/test/resources
+2025-04-17 04:39:07,387 [Worker-31: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 1.00 sec 
+2025-04-17 04:39:08,672 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 04:39:08,672 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 04:39:08,673 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 04:39:08,682 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 04:39:08,699 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 04:39:08,699 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 04:39:08,699 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 04:45:03,829 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-17 04:45:04,018 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kr.inhatc.spring:Kitae_Shop:0.0.1-SNAPSHOT @ C:\eclipse-workspace\Shop\pom.xml.
+2025-04-17 04:45:04,056 [Worker-35: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-17 04:45:04,404 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/main/java
+2025-04-17 04:45:04,405 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/target/generated-sources/java
+2025-04-17 04:45:04,405 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 04:45:04,405 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 04:45:04,405 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/test/java
+2025-04-17 04:45:04,405 [Worker-35: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/test/resources
+2025-04-17 04:45:04,637 [Worker-35: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-17 04:45:05,635 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 04:45:05,635 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 04:45:05,635 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 04:45:05,644 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 04:45:05,664 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 04:45:05,664 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 04:45:05,664 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 04:47:11,533 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 04:47:39,045 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 09:07:18,027 [Worker-31: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-17 09:19:23,044 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 09:19:23,575 [Worker-5: reload maven project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-17 09:21:13,113 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-17 09:21:13,406 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: kr.inhatc.spring:Kitae_Shop:0.0.1-SNAPSHOT @ C:\eclipse-workspace\Shop\pom.xml.
+2025-04-17 09:21:13,449 [Worker-15: Updating Maven Project] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-17 09:21:14,015 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/main/java
+2025-04-17 09:21:14,015 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/target/generated-sources/java
+2025-04-17 09:21:14,016 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 09:21:14,017 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/main/resources
+2025-04-17 09:21:14,017 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Shop/src/test/java
+2025-04-17 09:21:14,017 [Worker-15: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Shop/src/test/resources
+2025-04-17 09:21:14,307 [Worker-15: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-17 09:21:15,867 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:21:15,867 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:21:15,867 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:21:15,877 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 09:21:15,898 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:21:15,898 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:21:15,898 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:27:20,816 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:27:20,816 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:27:20,818 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:27:20,821 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 09:27:20,824 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:27:20,824 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:27:20,824 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:36:10,722 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:36:10,723 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:36:10,724 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:36:10,729 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:36:10,730 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:36:10,730 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:36:10,730 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:37:17,889 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:37:17,889 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:37:17,891 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:37:17,894 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:37:17,895 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:37:17,895 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:37:17,895 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:45:11,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:11,487 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:11,488 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:45:11,489 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:45:11,492 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:11,492 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:11,492 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:45:21,952 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:21,952 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:21,953 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:45:21,954 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:45:21,956 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:21,956 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:21,956 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:45:26,194 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:26,194 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:26,196 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:45:26,198 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:45:26,200 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:45:26,200 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:45:26,200 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:49:33,663 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:49:33,664 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:49:33,664 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:49:33,666 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:49:33,667 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:49:33,667 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:49:33,667 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 09:50:26,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:50:26,741 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:50:26,742 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 09:50:26,743 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 09:50:26,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 09:50:26,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 09:50:26,746 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:49:10,498 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:49:10,498 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:49:10,499 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:49:10,503 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 12:49:10,506 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:49:10,506 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:49:10,506 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:51:25,714 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:51:25,714 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:51:25,716 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:51:25,718 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:51:25,720 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:51:25,720 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:51:25,720 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:53:19,854 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:53:19,854 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:53:19,855 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:53:19,856 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:53:19,858 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:53:19,859 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:53:19,859 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:54:30,099 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:54:30,099 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:54:30,100 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:54:30,101 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:54:30,103 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:54:30,103 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:54:30,103 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:55:13,703 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:55:13,703 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:55:13,705 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:55:13,706 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:55:13,708 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:55:13,708 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:55:13,708 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:55:17,887 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:55:17,887 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:55:17,887 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:55:17,889 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:55:17,891 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:55:17,891 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:55:17,891 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:56:09,176 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:56:09,176 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:56:09,177 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:56:09,180 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 15 resources
+2025-04-17 12:56:09,184 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:56:09,184 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:56:09,184 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:56:49,388 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:56:49,388 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:56:49,389 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:56:49,392 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:56:49,394 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:56:49,394 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:56:49,394 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:57:29,546 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:57:29,546 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:57:29,547 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:57:29,549 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:57:29,551 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:57:29,551 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:57:29,551 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 12:58:56,272 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:58:56,272 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:58:56,273 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 12:58:56,275 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 12:58:56,276 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 12:58:56,276 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 12:58:56,276 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-17 13:00:06,971 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 13:00:06,971 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 13:00:06,972 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-17 13:00:06,973 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-17 13:00:06,975 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-17 13:00:06,975 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-17 13:00:06,975 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\eclipse-workspace\Shop\src\test\resources
+2025-04-23 20:28:16,132 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-23 20:28:44,939 [Worker-23: Check for devtools] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 1 problem was encountered while building the effective model for org.javassist:javassist:jar:3.20.0-GA during dependency collection step for project (use -X to see details)
+2025-04-23 20:41:53,382 [Worker-33: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:41:53,714 [Worker-33: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:42:25,876 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-23 20:42:25,878 [Worker-41: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 0 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-23 20:44:33,174 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-23 20:44:34,029 [Worker-9: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:44:34,608 [Worker-9: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:45:38,776 [Worker-11: Loading Effective POM...] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:46:50,033 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013 [637])
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\aopalliance-1.0.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\guice-5.1.0.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpclient-4.5.14.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\httpcore-4.4.16.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jansi-2.4.1.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\jcl-over-slf4j-1.7.36.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-artifact-3.9.9.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-builder-support-3.9.9.jar
+2025-04-23 20:46:50,034 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-compat-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-core-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-embedder-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-model-builder-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-plugin-api-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-repository-metadata-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-api-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-connector-basic-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-impl-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-named-locks-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-provider-3.9.9.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-spi-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-file-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-http-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-transport-wagon-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-resolver-util-1.9.22.jar
+2025-04-23 20:46:50,035 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-3.9.9.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-settings-builder-3.9.9.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\maven-shared-utils-3.4.2.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.inject-0.9.0.M3.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\org.eclipse.sisu.plexus-0.9.0.M3.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-0.0.7.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-build-api-1.2.0.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-cipher-2.0.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-classworlds-2.8.0.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-component-annotations-2.1.0.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-interpolation-1.27.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-sec-dispatcher-2.0.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-utils-3.5.1.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\plexus-xml-3.0.1.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-file-3.5.3.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-3.5.3.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-http-shared-3.5.3.jar
+2025-04-23 20:46:50,036 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_3.9.900.20250220-2013\jars\wagon-provider-api-3.5.3.jar
+2025-04-23 20:46:50,037 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava_33.4.0.jre [16])
+2025-04-23 20:46:50,037 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\com.google.guava_33.4.0.jre.jar
+2025-04-23 20:46:50,037 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=slf4j.api_2.0.17 [1004])
+2025-04-23 20:46:50,037 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\slf4j.api_2.0.17.jar
+2025-04-23 20:46:50,037 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.inject.jakarta.inject-api_1.0.5 [34])
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\jakarta.inject.jakarta.inject-api_1.0.5.jar
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=jakarta.annotation-api_1.3.5 [29])
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\jakarta.annotation-api_1.3.5.jar
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.cli_1.9.0 [74])
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.apache.commons.cli_1.9.0.jar
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=org.apache.commons.commons-codec_1.16.0 [76])
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\org.apache.commons.commons-codec_1.16.0.jar
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - getClasspathEntries(Bundle=com.google.guava.failureaccess_1.0.2 [17])
+2025-04-23 20:46:50,038 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.eclipse.m2e.core.internal.Bundles - 	Entry: C:\Users\vllll\.p2\pool\plugins\com.google.guava.failureaccess_1.0.2.jar
+2025-04-23 20:46:50,040 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\eclipse-workspace\shop-master\shop-master":
+2025-04-23 20:46:50,041 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always install
+2025-04-23 20:46:50,347 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 20:46:50,701 [Worker-1: Launching Executing install in C__eclipse-workspace_shop-master_shop-master] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 21:07:16,462 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-23 21:07:17,344 [Worker-5: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 21:07:17,814 [Worker-5: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 21:13:41,329 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-23 21:13:41,357 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6daac827{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@64335f8c{STARTED}}
+2025-04-23 21:13:41,358 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-23 21:13:41,373 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@67280f52{HTTP/1.1, (http/1.1)}{127.0.0.1:1888}
+2025-04-23 21:13:41,375 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@78c66563{STARTING}[12.0.16,sto=0] @394133ms
+2025-04-23 21:15:18,043 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-23 21:15:18,044 [Worker-32: Update Maven projects configuration] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:15:18,407 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.shop:shop:0.0.1-SNAPSHOT @ C:\eclipse-workspace\shop2\pom.xml.
+2025-04-23 21:15:18,554 [Worker-32: Update Maven projects configuration] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-04-23 21:15:18,889 [Worker-32: Update Maven projects configuration] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:15:18,966 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shop2/src/main/java
+2025-04-23 21:15:18,967 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shop2/src/main/resources
+2025-04-23 21:15:18,970 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shop2/src/main/resources
+2025-04-23 21:15:18,975 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /shop2/src/test/java
+2025-04-23 21:15:18,975 [Worker-32: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /shop2/src/test/resources
+2025-04-23 21:15:19,616 [Worker-32: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 0.00 sec 
+2025-04-23 21:15:20,367 [Worker-38: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:15:20,423 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-04-23 21:15:20,434 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 29 resources from src\main\resources to target\classes
+2025-04-23 21:15:20,457 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-23 21:18:10,309 [Worker-32: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:18:10,319 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-04-23 21:18:10,325 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 29 resources from src\main\resources to target\classes
+2025-04-23 21:18:10,333 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-23 21:19:07,403 [Worker-39: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:19:07,409 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-23 21:19:07,414 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-23 21:19:07,417 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-23 21:28:45,330 [Worker-40: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:28:45,336 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-23 21:28:45,339 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-23 21:28:45,341 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-23 21:28:52,008 [Worker-35: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:28:52,012 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-23 21:28:52,014 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-23 21:28:52,017 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-23 21:29:16,807 [Worker-32: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-23 21:29:16,812 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-23 21:29:16,814 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-23 21:29:16,817 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:01:02,230 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:01:02,238 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:01:02,243 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:01:02,247 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:01:14,291 [Worker-35: Launching shop2 - ShopApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:01:14,295 [Worker-35: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:01:14,298 [Worker-35: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:01:14,301 [Worker-35: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:07:06,358 [Worker-33: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:07:06,362 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:07:06,367 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:07:06,369 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:08:26,220 [Worker-45: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:08:26,228 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:08:26,238 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:08:26,241 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:11:18,590 [Worker-49: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:11:18,594 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:11:18,598 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:11:18,600 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:11:24,172 [Worker-46: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:11:24,176 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:11:24,180 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:11:24,181 [Worker-46: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:16:03,530 [Worker-55: Launching shop2 - ShopApplication] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:16:03,535 [Worker-55: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:16:03,540 [Worker-55: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:16:03,541 [Worker-55: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:17:15,960 [Worker-60: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:17:15,964 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:17:15,968 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:17:15,969 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:17:57,642 [Worker-61: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:17:57,646 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:17:57,654 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:17:57,657 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:53:06,046 [Worker-62: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:53:06,049 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:53:06,054 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:53:06,055 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:53:25,591 [Worker-58: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:53:25,595 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:53:25,599 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:53:25,600 [Worker-58: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 03:54:52,408 [Worker-65: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 03:54:52,412 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 03:54:52,415 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 03:54:52,416 [Worker-65: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 10:21:49,051 [Worker-66: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 10:21:49,055 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 10:21:49,058 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 10:21:49,059 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 10:23:28,087 [Worker-70: Building] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2025-04-24 10:23:28,091 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-24 10:23:28,094 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-24 10:23:28,096 [Worker-70: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-04-24 15:21:51,262 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@78c66563{STOPPING}[12.0.16,sto=0]
+2025-04-24 15:21:51,268 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@67280f52{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-05-08 11:06:00,352 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-08 11:06:38,848 [Worker-27: Check for devtools] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-05-14 22:23:29,330 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-14 22:32:32,870 [Worker-5: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-05-14 22:40:47,779 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-05-14 22:40:49,031 [Worker-4: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact mysql:mysql-connector-java:jar:8.0.33 has been relocated to com.mysql:mysql-connector-j:jar:8.0.33: MySQL Connector/J artifacts moved to reverse-DNS compliant Maven 2+ coordinates.
+2025-05-14 22:41:17,127 [Worker-24: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources from src\main\resources to target\classes
+2025-05-14 22:41:17,140 [Worker-24: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 29 resources from src\main\resources to target\classes
+2025-05-14 22:41:17,163 [Worker-24: Launching shop2 - ShopApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
+2025-05-15 08:30:50,283 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 08:30:50,287 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-15 08:30:50,289 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\eclipse-workspace\shop2\src\test\resources
